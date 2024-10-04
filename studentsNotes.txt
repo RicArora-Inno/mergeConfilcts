@@ -1,1 +1,1 @@
-This is a file where we are going to see the details of the students notes. hello
+This is a file where we are going to see the details of the students notes. hello there
